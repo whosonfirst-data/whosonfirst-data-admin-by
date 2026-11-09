@@ -38,7 +38,7 @@
         "gn:id":621086
     },
     "wof:country":"BY",
-    "wof:geomhash":"dea55d8777fed100f68700eda30da8f2",
+    "wof:geomhash":"4d2d20e5b1edd91041646eb5abdd097a",
     "wof:hierarchy":[
         {
             "country_id":85632395,
@@ -61,5 +61,5 @@
     31.36806,
     53.20583000000001
 ],
-  "geometry": {"coordinates":[31.36806,53.20583000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.36806,53.20583],"type":"Point"}
 }

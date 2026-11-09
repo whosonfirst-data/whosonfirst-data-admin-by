@@ -63,7 +63,7 @@
         "wk:page":"Vasilishki"
     },
     "wof:country":"BY",
-    "wof:geomhash":"5ffcd07e3b4e2d098b6e8e9010ebe52e",
+    "wof:geomhash":"3b9f39cc2692b9a0a8265dc8d3deab51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     24.84888,
     53.78073000000001
 ],
-  "geometry": {"coordinates":[24.84888,53.78073000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.84888,53.78073],"type":"Point"}
 }

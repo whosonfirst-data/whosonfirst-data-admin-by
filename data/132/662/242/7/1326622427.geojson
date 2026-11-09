@@ -41,7 +41,7 @@
         "gn:id":813589
     },
     "wof:country":"BY",
-    "wof:geomhash":"75d5bebb3610c323e2fee01c71f11b69",
+    "wof:geomhash":"47430be113f0357f4a51f3a3e8568b4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,5 +67,5 @@
     30.58167000000001,
     53.36666999999999
 ],
-  "geometry": {"coordinates":[30.58167000000001,53.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[30.58167,53.36667],"type":"Point"}
 }
