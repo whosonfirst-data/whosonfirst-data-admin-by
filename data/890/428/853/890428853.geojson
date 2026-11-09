@@ -78,8 +78,7 @@
     "wof:belongsto":[
         102191581,
         85632395,
-        85669313,
-        1092004873
+        85669313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +94,6 @@
         {
             "continent_id":102191581,
             "country_id":85632395,
-            "county_id":1092004873,
             "locality_id":890428853,
             "region_id":85669313
         }
@@ -103,7 +101,7 @@
     "wof:id":890428853,
     "wof:lastmodified":1690863706,
     "wof:name":"Syomkava",
-    "wof:parent_id":1092004873,
+    "wof:parent_id":85669313,
     "wof:placetype":"locality",
     "wof:population":1522,
     "wof:population_rank":3,

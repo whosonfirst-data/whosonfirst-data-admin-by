@@ -96,8 +96,7 @@
     "wof:belongsto":[
         102191581,
         85632395,
-        85669313,
-        1092004873
+        85669313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +108,6 @@
         {
             "continent_id":102191581,
             "country_id":85632395,
-            "county_id":1092004873,
             "locality_id":1292999615,
             "region_id":85669313
         }
@@ -117,7 +115,7 @@
     "wof:id":1292999615,
     "wof:lastmodified":1566631094,
     "wof:name":"Sloboda",
-    "wof:parent_id":1092004873,
+    "wof:parent_id":85669313,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-by",
     "wof:superseded_by":[],
